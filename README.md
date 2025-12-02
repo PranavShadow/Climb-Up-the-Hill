@@ -12,7 +12,7 @@
 Make sure Python is installed, then:
 
 ```bash
-python main.py
+python pranav_up_the_hill.py
 ```
 
 ## 📄 License  
